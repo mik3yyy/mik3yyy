@@ -1,7 +1,7 @@
 ## Hi there 👋
  I'm Okpechi Chibuikem Michael, a passionate Mobile Application and Backend Developer with over 2 years of experience in the field. 📱💻
 ## Skills 👨🏾‍💻
-I specialize in creating robust and user-friendly mobile apps using technologies such as Node.js, Flutter, and Swift. With my skills in both backend development and mobile app development, I enjoy building seamless experiences that bridge the gap between the server and the user's device. ⚡️
+I specialize in creating robust and user-friendly mobile apps using technologies such as Flutter, Swift and Javascript. With my skills in both backend development and mobile app development, I enjoy building seamless experiences that bridge the gap between the server and the user's device. ⚡️
 
 ## Experience 📈
 Throughout my journey, I've had the privilege of interning at reputable companies such as TotalEnergies, Optisoft Technology, and Sterling Bank. These experiences have not only honed my technical skills but have also taught me the importance of teamwork, problem-solving, and delivering high-quality software solutions. 🌟
