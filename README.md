@@ -1,5 +1,5 @@
 ## Hi there 👋
- I'm Okpechi Chibuikem Michael, a passionate Mobile Application and Backend Developer with over 2 years of experience in the field. 📱💻
+ I'm Okpechi Chibuikem Michael, a passionate Mobile Application and Backend Developer with over 4 years of experience in the field. 📱💻
 ## Skills 👨🏾‍💻
 I specialize in creating robust and user-friendly mobile apps using technologies such as Flutter, Swift and Javascript. With my skills in both backend development and mobile app development, I enjoy building seamless experiences that bridge the gap between the server and the user's device. ⚡️
 
