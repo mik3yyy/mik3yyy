@@ -1,19 +1,79 @@
-## Hi there 👋
- I'm Okpechi Chibuikem Michael, a passionate Mobile Application and Backend Developer with over 4 years of experience in the field. 📱💻
-## Skills 👨🏾‍💻
-I specialize in creating robust and user-friendly mobile apps using technologies such as Flutter, Swift and Javascript. With my skills in both backend development and mobile app development, I enjoy building seamless experiences that bridge the gap between the server and the user's device. ⚡️
+# Hi there 👋
 
-## Experience 📈
-Throughout my journey, I've had the privilege of interning at reputable companies such as TotalEnergies, Optisoft Technology, and Sterling Bank. These experiences have not only honed my technical skills but have also taught me the importance of teamwork, problem-solving, and delivering high-quality software solutions. 🌟
+I'm **Okpechi Chibuikem Michael**, a Mobile Engineer based in Lagos, Nigeria with over 4 years of experience crafting high-quality mobile and backend solutions. Currently, I’m developing innovative features at [PressOne Africa](https://pressone.africa/) that enhance user engagement across platforms.
 
-## My Other Side🌚
-When I'm not coding, you can find me exploring the latest trends in technology, learning new frameworks, or diving into open-source projects. I believe in the power of collaboration and actively contribute to the developer community through sharing knowledge and experiences.
+---
 
-Let's connect and create amazing software together! 🚀✨ Feel free to reach out to me if you have any exciting projects or opportunities in mind.
+## 🚀 Experience & Projects
 
-Feel free to personalize the content to align with your style and preferences. Remember, the "About Me" section is an excellent opportunity to showcase your skills, experiences, and enthusiasm for software development.
+- **PressOne Africa (10/2024 – Present):**  
+  Driving mobile application development and delivering new features that improve user satisfaction.
 
+- **Tezda (Remote, London):**  
+  Spearheaded the design and implementation of a robust call system using Flutter and Swift, integrating CallKit, PushKit, and LiveKit for seamless real-time communication.
 
+- **Techwings Global LLC (Remote, Germany):**  
+  Developed cross-platform mobile apps that streamlined backend processes and reduced manual tasks significantly.
+
+- **Kiasup (Lagos, Nigeria):**  
+  Built Android and iOS applications focused on real-time communication, boosting user interaction and response times.
+
+- **Notable Projects:**  
+  - **Study Stats App:** Collaborated with GDSC Babcock to create an app that serves over 2,500 users, helping improve academic productivity.  
+  - **Grocipe AI:** An AI-powered recipe and meal planning app that enhances efficiency in meal preparation.  
+  - **Laundry Room App:** Developed an intuitive Android app for a local laundry company, significantly increasing operational efficiency.  
+  - **Bank Safe App & Flutter Bootstrap:** Contributed to agile projects that improved deployment cycles and streamlined Flutter project setups.
+
+---
+
+## 💻 Skills
+
+- **Mobile & Web Development:**  
+  Flutter (Dart), Swift (iOS), Kotlin (Android), React, TypeScript, Node.js
+
+- **UI/UX:**  
+  SwiftUI, Jetpack Compose, React
+
+- **Testing & Quality:**  
+  Flutter test, Bloc test, Mocktail
+
+- **Real-Time Communication & Media:**  
+  LiveKit, WebRTC, Agora, CallKit, PushKit, FFmpeg, AVFoundation, ExoPlayer
+
+---
+
+## 🌟 Leadership & Community
+
+- **GDSC Babcock Mobile Lead:**  
+  Led university-wide projects and hosted workshops on Flutter development.
+
+- **BUCC Mobile Lead, Babcock University:**  
+  Organized hackathons and coding competitions, fostering a culture of innovation and collaboration.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**  
+Babcock University (2020 – 2024)  
+*Dean’s List 2023-2024 | GPA: 4.73/5.0*
+
+---
+
+## 📫 Let’s Connect
+
+I'm always open to discussing exciting projects, collaboration opportunities, or just talking tech!
+
+- **Email:** [mikeokpechi@gmail.com](mailto:mikeokpechi@gmail.com)
+- **Website:** [michaelokpechi.netlify.app](https://michaelokpechi.netlify.app/)
+- **LinkedIn:** [chibuikem-michael-okpechi](https://www.linkedin.com/in/chibuikem-michael-okpechi/)
+- **GitHub:** [@mik3yyy](https://github.com/mik3yyy)
+
+When I'm not coding, you can find me exploring emerging technologies, contributing to open-source projects, or mentoring aspiring developers.
+
+---
+
+Feel free to reach out if you have any exciting opportunities or projects in mind!
 
 
 
