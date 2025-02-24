@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Okpechi Chibuikem Michael**, a Mobile Engineer based in Lagos, Nigeria with over 4 years of experience crafting high-quality mobile and backend solutions. Currently, I’m developing innovative features at [PressOne Africa](https://pressone.africa/) that enhance user engagement across platforms.
+I'm **Okpechi Chibuikem Michael**, a Mobile Engineer based in Lagos, Nigeria with over 4 years of experience crafting high-quality mobile and backend solutions. Currently, I’m developing innovative features at [Stroll](https://www.stroll.sg/) that enhance user engagement across platforms.
 
 ---
 
