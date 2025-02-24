@@ -29,16 +29,13 @@ I'm **Okpechi Chibuikem Michael**, a Mobile Engineer based in Lagos, Nigeria wit
 ## 💻 Skills
 
 - **Mobile & Web Development:**  
-  Flutter (Dart), Swift (iOS), Kotlin (Android), React, TypeScript, Node.js
-
-- **UI/UX:**  
-  SwiftUI, Jetpack Compose, React
+  Flutter (Dart), Swift (iOS), Kotlin (Android), React, TypeScript
 
 - **Testing & Quality:**  
   Flutter test, Bloc test, Mocktail
 
 - **Real-Time Communication & Media:**  
-  LiveKit, WebRTC, Agora, CallKit, PushKit, FFmpeg, AVFoundation, ExoPlayer
+  LiveKit, WebRTC, Agora, CallKit, PushKit, FFmpeg, AVFoundation
 
 ---
 
